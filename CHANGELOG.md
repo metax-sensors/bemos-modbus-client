@@ -1,3 +1,6 @@
+## 2.1.2 (13.11.2026)
+- add compatibility with boneos 6.1
+
 ## 2.1.1 (27.02.2025)
 - fix configuration file parsing
 
